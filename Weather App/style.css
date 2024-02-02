@@ -1,0 +1,44 @@
+
+body {
+    background-image: url('bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+.card {
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem;
+  }
+  
+  .card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid rgba(0, 0, 0, .125);
+  }
+  
+  .card-title {
+    font-size: 2.5rem;
+  }
+  
+  .card-body {
+    padding: 1.25rem;
+  }
+  
+  .list-unstyled li {
+    margin-bottom: .5rem;
+  }
+  
+  .list-unstyled li strong {
+    font-weight: 600;
+  }
+  
+
+  .bgbg{
+    background-image: url('bgbg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  #footer-container-1 {
+    padding-top: 50px;
+  }
